@@ -1,4 +1,4 @@
-And Join my smp its called FlameSmpEaglercraft 1.20.5 Server by Ryan Norshare !
+And Join my smp its called FlameSmp  Eaglercraft 1.20.5 Server by Ryan Norshare !
 <br>
 **Step 1:** Installing some stuff :D in a new terminal tyoe `sudo apt install default-jdk && sudo apt install default-jre -y` 
 <br>
